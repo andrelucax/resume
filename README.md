@@ -2,7 +2,7 @@
 
 ## Compiling
 ```sh
-pdflatex main.tex
+pdflatex -job-name=latest main.tex
 ```
 
 ## Development environment
